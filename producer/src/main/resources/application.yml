@@ -1,0 +1,6 @@
+server:
+  port: 8085
+
+rocketmq:
+  groupName: producer-rocketmq
+  namesrvAddr: 127.0.0.1:9876

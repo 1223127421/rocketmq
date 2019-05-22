@@ -1,0 +1,6 @@
+server:
+  port: 8086
+
+rocketmq:
+  groupName: customer-rocketmq
+  namesrvAddr: 127.0.0.1:9876
